@@ -1,0 +1,40 @@
+.nav-link:hover{
+    color: #8bc463 !important;
+}
+
+.btn-galeri :hover{
+    color: #8bc463 !important;
+}
+.dropdown-item:hover{
+    color: #8bc463 !important;
+}
+.bg-success{
+    color: #8bc463 !important;
+}
+
+footer{
+    color: #8bc463 !important;
+}
+
+.border-succes{
+    border: #8bc463 !important;
+}
+.navbar-toggler{
+    color:#8bc463 !important;
+}
+.text-tengah{
+    text-align: justify !important;
+}
+li.next:hover{
+    background-color:#8bc463 !important;
+    color:#fff !important;
+    border-color:#8bc463 !important;
+}
+li.prev:hover{
+    background-color:#8bc463 !important;
+    color:#fff !important;
+    border-color:#8bc463 !important;
+}
+.headline-berita{
+    background-color:#8bc463 !important;
+}
